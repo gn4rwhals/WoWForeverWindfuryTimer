@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: WoW Forever Windfury Timer
+## Notes: Counts down 1.5 seconds after a Windfury proc so you can hold Stormstrike.
+## Author: gn4rwhals
+## Version: 0.1.0
+## SavedVariables: WindfuryTimerDB
+
+Core.lua
+Timer.lua
+Display.lua
+Detect.lua
